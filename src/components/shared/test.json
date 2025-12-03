@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_shared_tests",
+  "info": {
+    "displayName": "test",
+    "icon": "arrowDown"
+  },
+  "options": {},
+  "attributes": {
+    "tst": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
